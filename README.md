@@ -1,0 +1,1 @@
+# We can infer from the mean plot that the population's true mean is largely repeated across all samples. We can infer from the standard deviation plot that the deviation values are uniformly distributed around the population's standard deviation.
